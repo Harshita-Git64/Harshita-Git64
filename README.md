@@ -1,8 +1,8 @@
 [![MasterHead](https://1.bp.blogspot.com/-4Q8cuX8et0w/XlPs59l0LrI/AAAAAAAAU-Q/A2NioJfXQY0pavFPS9INBPPv70xxU5zPACLcBGAsYHQ/s1600/api-c99e353f761d318322c853c03ebcf21b.gif)](https://rishavchanda.io)
 
-<h1 align="center">Hi 👋, I'm Harshita Paliwal</h1>
+<h1 align="center"><i><b>Hi 👋, I'm Harshita Paliwal</b></i></h1>
 <h3 align="center">A passionate developer,always try to learn and explore new ideas and things.</h3>
-<img align="right" alt="Coding" width="400" src="https://https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif>
+<img align="right" alt="Coding" width="600"  src="https://https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif>
 
 <p align="left"> <img src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif" alt="harshita-git64" /> </p>
 
