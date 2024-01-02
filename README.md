@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-4Q8cuX8et0w/XlPs59l0LrI/AAAAAAAAU-Q/A2NioJfXQY0pavFPS9INBPPv70xxU5zPACLcBGAsYHQ/s1600/api-c99e353f761d318322c853c03ebcf21b.gif)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 
 <h1 align="center"><i><b>Hi 👋, I'm Harshita Paliwal</b></i></h1>
 <h3 align="center">A passionate developer,always try to learn and explore new ideas and things.</h3>
