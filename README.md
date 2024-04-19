@@ -3,14 +3,16 @@
 <h1 align="center"><i><b>Hi 👋, I'm Harshita Paliwal</b></i></h1>
 <h3 align="center">A passionate developer,always try to learn and explore new ideas and things.</h3>
 
-
-<p align="center"> <img src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif" alt="harshita-git64" /> </p>
-
+<div>
+<p align="left"> <img src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif" alt="harshita-git64" /> </p>
+<div>
 - 🌱 I’m currently learning **ReactJs**
 
 - 💬 Ask me about **Android Application**
 
 - 📫 How to reach me **harshitapaliwal789@gmail.com**
+  </div>
+  </div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
