@@ -2,7 +2,7 @@
 
 <h1 align="center"><i><b>Hi 👋, I'm Harshita Paliwal</b></i></h1>
 <h3 align="center">A passionate developer,always try to learn and explore new ideas and things.</h3>
-<img align="right" alt="Coding" width="600"  src="https://https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif">
+<img align="right" alt="Coding" width="600"  src="https://https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif>
 
 <p align="left"> <img src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif" alt="harshita-git64" /> </p>
 
