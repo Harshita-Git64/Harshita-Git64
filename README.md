@@ -5,11 +5,14 @@
 
 <div>
 <p align="left"> <img src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif" alt="harshita-git64" /> </p>
-<div>  
+<div> 
+  
 - 🌱 I’m currently learning **ReactJs**
   
 - 💬 Ask me about **Android Application**
+  
 - 📫 How to reach me **harshitapaliwal789@gmail.com**
+  
   </div>
   </div>
 
