@@ -2,7 +2,7 @@
 
 <h1 align="center"><i><b>Hi 👋, I'm Harshita Paliwal</b></i></h1>
 <h3 align="center">A passionate developer,always try to learn and explore new ideas and things.</h3>
-<img align="right" alt="Coding" width="600"  src="[https://https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FBiomedicalSciences%2Flearning-git&psig=AOvVaw2GXGbF5J-nkhFoYyOU3B9z&ust=1713640579442000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMioiuX-zoUDFQAAAAAdAAAAABAE)">
+
 
 <p align="center"> <img src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif" alt="harshita-git64" /> </p>
 
